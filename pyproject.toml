@@ -5,7 +5,7 @@ requires = [
 build-backend = "hatchling.build"
 
 [project]
-name = "fcasq"
+name = "casq"
 description = "CaSQ: Celldesigner as Sbml-Qual"
 readme = "README.rst"
 license = "GPL-3.0"
